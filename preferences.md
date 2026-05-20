@@ -1,6 +1,6 @@
 # Shell News Digest — Reader Preferences
 
-_Last updated: 2026-05-17 | Ratings files analysed: none yet_
+_Last updated: 2026-05-20 | Ratings files analysed: none yet_
 
 ## Status
 
