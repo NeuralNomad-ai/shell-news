@@ -1,38 +1,66 @@
-# Shell News Digest — Reader Preferences
+# Shell News Preferences — last updated 2026-06-10
 
-_Last updated: 2026-05-29 | Ratings files analysed: none yet_
+_Ratings files analysed: none yet. Preferences below reflect the baseline reader profile._
 
-## Status
+## By Category (baseline — no ratings data)
 
-No ratings files have been submitted yet. This file will be updated automatically once `ratings-YYYY-MM-DD.json` files are committed to the repo.
+- Strategy & Corporate Moves: assumed high priority (C-suite strategic decisions, M&A, executive moves)
+- Energy Transition: assumed medium-high priority (capital allocation signalling, net-zero progress)
+- Financials & Earnings: assumed high priority (earnings beats/misses, analyst revisions, buyback execution)
+- AI & Digital: assumed high priority (enterprise AI deployments affecting Accenture-Shell engagement)
 
-## Assumed Preferences (Baseline)
+## By Audience
 
-Based on the reader profile — **AI Leader at Accenture advising Shell's C-suite** — the following content hierarchy is applied until ratings data is available:
+- C-suite content: strongly preferred — advisory-level framing required
+- Team practical: lower priority — operational/IR mechanics only when directly actionable
 
-### Tier 1 — Highest priority (C-suite advisory relevance)
+## By Impact
+
+- High impact: prioritised — material to Shell's strategy, financials, or operational position
+- Medium impact: included when relevant to the Accenture-Shell engagement context
+- Low impact: batched or omitted unless operationally necessary (e.g. dividend payment dates)
+
+## By Relevance
+
+- Direct (Accenture-Shell engagement): highest priority — items that affect advisory conversations, project scope, or client relationships
+- Context (background knowledge): included for C-suite briefing completeness; deprioritised for team digests
+
+## Summary
+
+The reader is an AI Leader at Accenture advising Shell's C-suite, requiring content framed at board and executive committee level with explicit advisory implications. The current macro context — Strait of Hormuz crisis, LNG supply shock, ARC Resources acquisition, and Shell's AI/digital transformation — defines the four dominant themes through H2 2026. Routine buyback filings and operational below-ExCo items are lowest priority; daily buybacks should be batched weekly unless price deviates >2% from trailing average.
+
+## Tier 1 — Highest Priority (C-suite advisory relevance)
+
 - CEO/board-level strategic decisions: M&A, executive appointments, capital allocation pivots
-- AGM dynamics: contested resolutions, proxy battles, investor coalition moves
+- ARC Resources acquisition milestones: shareholder vote (July), regulatory approvals, integration planning
+- Hormuz crisis and Qatar LNG recovery timeline: direct impact on Shell Q2/H2 2026 earnings
 - Quarterly earnings beats/misses and analyst target changes
-- Shell's AI/digital strategy as it relates to enterprise transformation advice
+- Shell's AI/digital strategy as it relates to enterprise transformation advice (C3 AI, NVIDIA, SLB Lumi)
 
-### Tier 2 — Important context
-- Energy transition strategy developments (net zero, ESG, scenario planning)
+## Tier 2 — Important Context
+
+- Energy transition strategy developments: Sprng Energy divestment, ESG investor pressure, net-zero progress
+- LNG Canada ramp-up and Pacific Basin LNG market dynamics
 - New upstream/downstream partnerships with strategic rationale
-- Regulatory filings with C-suite implications (lobbying reports, government payments, prospectuses)
-- Buyback execution (weekly cadence preferred over daily, unless a notable price deviation)
+- Regulatory filings with C-suite implications
+- Buyback execution (weekly cadence preferred; daily only if price deviates >2%)
 
-### Tier 3 — Background / operational
-- Routine daily buyback filings (batch into a weekly update item)
+## Tier 3 — Background / Operational
+
+- Routine daily buyback filings (batch into weekly update)
 - Operational team-level changes below ExCo
 - General sector ESG commentary without Shell-specific data
+- Dividend currency election mechanics (flag upcoming dates only)
 
 ## Content Patterns to Watch
 
-- **ARC Resources acquisition** will be a recurring story through H2 2026 close; escalate only on material developments (regulatory approval, financing, revised terms)
-- **AGM / Follow This** — resolution outcomes are high-priority; post-vote analysis > pre-vote speculation
-- **SLB / NVIDIA AI partnership** — flag when concrete KPIs or new Shell deployments are announced, not just relationship reaffirmations
+- **ARC Resources acquisition** — recurring through H2 2026 close; escalate on: shareholder vote outcome (July), Competition Bureau Canada clearance, Investment Canada Act approval, financing/dilution updates
+- **Hormuz / Qatar LNG** — Pearl GTL Train 2 repair (~12 months from March 2026); US-Iran ceasefire durability; force majeure resolution; full strait reopening timeline (Baker Hughes: H2 2026)
+- **LNG Canada Train 2** — now operational; watch for full-capacity run-rate confirmation and spot cargo pricing to validate Sawan's LNG thesis
+- **Sprng Energy divestment** — Aditya Birla/KKR exclusive talks at ~$1.7–2B; regulatory roadblocks in India; flag if deal collapses or price is cut materially
+- **C3 AI / NVIDIA / SLB Lumi partnerships** — flag concrete KPI announcements or new Shell deployment milestones only; skip relationship reaffirmations
 - **Buyback** — weekly summary item preferred; individual daily filings only if price deviates >2% from trailing average
+- **Q2 2026 earnings** — July 30; first full-quarter read on Hormuz/Qatar impact; watch net debt trajectory vs $52.6B Q1 level
 
 ## Update Protocol
 
